@@ -1,0 +1,101 @@
+sr_no,name,link
+1,Indian Institute of Technology Madras,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0456.pdf
+2,Indian Institute of Technology Delhi,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-I-1074.pdf
+3,Indian Institute of Technology Bombay,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0306.pdf
+4,Indian Institute of Technology Kanpur,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-I-1075.pdf
+5,Indian Institute of Technology Kharagpur,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0573.pdf
+6,Indian Institute of Technology Roorkee,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0560.pdf
+7,Indian Institute of Technology Guwahati,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0053.pdf
+8,Indian Institute of Technology Hyderabad,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0013.pdf
+9,National Institute of Technology Tiruchirappalli,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0467.pdf
+10,National Institute of Technology Karnataka,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0237.pdf
+11,Indian Institute of Technology (Indian School of Mines),https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0205.pdf
+12,Vellore Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0490.pdf
+13,Indian Institute of Technology Indore,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0273.pdf
+14,Indian Institute of Technology (Banaras Hindu University) Varanasi,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0701.pdf
+15,Institute of Chemical Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0308.pdf
+16,Amrita Vishwa Vidyapeetham,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0436.pdf
+17,Jadavpur University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0575.pdf
+18,Anna University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0439.pdf
+19,Indian Institute of Technology Ropar,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0378.pdf
+20,National Institute of Technology Rourkela,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0357.pdf
+21,Indian Institute of Technology Patna,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0064.pdf
+22,Indian Institute of Technology Gandhinagar,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0139.pdf
+23,National Institute of Technology Warangal,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0025.pdf
+24,Thapar Institute of Engineering and Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-I-1480.pdf
+25,National Institute of Technology Calicut,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0263.pdf
+26,Birla Institute of Technology & Science -Pilani,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0391.pdf
+27,Indian Institute of Engineering Science and Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0584.pdf
+28,Indian Institute of Technology Bhubaneswar,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0355.pdf
+29,National Institute of Technology Durgapur,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0577.pdf
+30,Visvesvaraya National Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0334.pdf
+31,Amity University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0497.pdf
+32,Siksha `O` Anusandhan,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0363.pdf
+33,Jamia Millia Islamia,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0108.pdf
+34,S.R.M. Institute of Science and Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0473.pdf
+35,Aligarh Muslim University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0496.pdf
+36,Delhi Technological University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0098.pdf
+37,Malaviya National Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0410.pdf
+38,Shanmugha Arts Science Technology & Research Academy,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0476.pdf
+39,Kalinga Institute of Industrial Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0356.pdf
+40,Indian Institute of Space Science and Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0255.pdf
+41,Indian Institute of Technology Mandi,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0184.pdf
+42,Motilal Nehru National Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0530.pdf
+43,Indian Institute of Technology Jodhpur,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0395.pdf
+44,National Institute of Technology Kurukshetra,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0172.pdf
+45,Sri Sivasubramaniya Nadar College of Engineering,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-16604.pdf
+46,Birla Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0202.pdf
+47,Sardar Vallabhbhai National Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0149.pdf
+48,National Institute of Technology Silchar,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0055.pdf
+49,Dr. B. R. Ambedkar National Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0374.pdf
+50,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0020.pdf
+51,Manipal Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-7252.pdf
+52,College of Engineering,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-41593.pdf
+53,PSG College of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-37013.pdf
+54,International Institute of Information Technology Hyderabad,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0014.pdf
+55,Sathyabama Institute of Science and Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0474.pdf
+56,Kalasalingam Academy of Research and Higher Education,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0458.pdf
+57,Visvesvaraya Technological University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0249.pdf
+58,Defence Institute of Advanced Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0297.pdf
+59,National Institute of Technology Meghalaya,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0619.pdf
+60,Maulana Azad National Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0284.pdf
+61,Chandigarh University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0747.pdf
+62,Jawaharlal Nehru Technological University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0017.pdf
+63,Indraprastha Institute of Information Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0105.pdf
+64,National Institute of Technology Raipur,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0092.pdf
+65,M. S. Ramaiah Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-1331.pdf
+66,Lovely Professional University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0379.pdf
+67,Banasthali Vidyapith,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0389.pdf
+68,Pandit Deendayal Petroleum University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0147.pdf
+69,National Institute of Technology Srinagar,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0197.pdf
+70,Punjab Engineering College (Deemed to be University),https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0080.pdf
+71,Thiagarajar College of Engineering,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-26794.pdf
+72,National Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0072.pdf
+73,Indian Institute of Information Technology Guwahati,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0795.pdf
+74,College of Engineering (A),https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-24004.pdf
+75,Graphic Era University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0555.pdf
+76,International Institute of Information Technology Bangalore,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0221.pdf
+77,R.V. College of Engineering,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-1269.pdf
+78,Sri Krishna College of Engineering and Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-36995.pdf
+79,Shri Mata Vaishno Devi University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0201.pdf
+80,Pandit Dwarka Prasad Mishra Indian Institute of Information Technology Design and Manufacturing (IIITDM) Jabalpur,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0286.pdf
+81,Indian Institute of Food Processing Technology (IIFPT),https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-45375.pdf
+82,Veermata Jijabai Technological Institute,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-33641.pdf
+83,PES University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0733.pdf
+84,Manipal University Jaipur,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0749.pdf
+85,National Institute of Technology Goa,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0620.pdf
+86,National Institute of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0207.pdf
+87,Indian Institute of Information Technology Allahabad,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0516.pdf
+88,Netaji Subhas University of Technology (NSUT),https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-6379.pdf
+89,Panjab University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0078.pdf
+90,Kumaraguru College of Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-36926.pdf
+91,University of Petroleum and Energy Studies,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0564.pdf
+92,National Institute of Technology Agartala,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0493.pdf
+93,Vel Tech Rangarajan Dr. Sagunthala R & D Institute of Science and Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0489.pdf
+94,Jaypee Institute of Information Technology,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0522.pdf
+95,College of Engineering Trivandrum,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-43708.pdf
+96,Bharati Vidyapeeth Deemed University College of Engineering,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-35417.pdf
+97,The Northcap University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0163.pdf
+98,B.M.S. College of Engineering,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-1262.pdf
+99,National Institute of Technology Hamirpur,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-U-0189.pdf
+100,C.V. Raman Global University,https://www.nirfindia.org/nirfpdfcdn/2021/pdf/Engineering/IR-E-C-30045.pdf
